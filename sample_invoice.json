@@ -1,0 +1,6 @@
+{
+    "invoice_id": "INV-12345",
+    "amount": 1500,
+    "date": "2025-05-30",
+    "vendor": "Acme Corp"
+}
